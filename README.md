@@ -15,4 +15,4 @@ Java JDK 25.0.2
 
 {Make a list of websites that you found helpful in this project}
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/download/)
-* [Java JDK](https://jdk.java.net/25/)
+* [Java JDK 25](https://www.oracle.com/java/technologies/downloads/)
